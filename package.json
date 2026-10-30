@@ -1,0 +1,7 @@
+
+{
+ "scripts": {
+ "check": "prettier . --check",
+ "format": "prettier . --write"
+ }
+}
